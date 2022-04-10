@@ -1,2 +1,2 @@
 # mintazolika2
-# masodik sor
+# masodik sor javitva
