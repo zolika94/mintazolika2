@@ -1,2 +1,3 @@
-# mintazolika2
+# elso sor
 # masodik sor javitva
+
